@@ -8,4 +8,4 @@ A simple Finance Manager Django application
 - HTML/CSS
 - Plotly Library
 
-Con
+
